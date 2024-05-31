@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌱 I’m always learning something new</h3>
+<h3 align="left">🌱 Always learning something new!</h3>
 
 ###
 
