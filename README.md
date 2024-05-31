@@ -1,8 +1,8 @@
-<h2 align="left">Sup! My name is Angel and I'm a Computer Engineer, from Costa Rica</h2>
+<h1 align="left">Sup! My name is Angel and I'm a Computer Engineer, from Costa Rica</h1>
 
 ###
 
-<h4 align="left">🌱 I’m always learning something new</h4>
+<h3 align="left">🌱 I’m always learning something new</h3>
 
 ###
 
