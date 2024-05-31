@@ -73,11 +73,3 @@
 <h3 align="left">📫 How to reach me</h3>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AngelPorrasL/AngelPorrasL/output/snake.svg" alt="Snake animation" />
-
-###
