@@ -1,4 +1,4 @@
-<h1 align="left">Sup! My name is Angel and I'm a Computer Engineer, from Costa Rica</h1>
+<h1 align="left">What's Up! My name is Angel and I'm a Computer Engineer, from Costa Rica</h1>
 
 ###
 
